@@ -10,7 +10,7 @@ Outside of coding, I enjoy doing **photography**, playing video games, and moddi
 
 ## Tech Stack  
 - **Languages:** Java, JavaScript  
-- **Web Dev:** TBA  
+- **Web Dev:** HTML,CSS  
 - **Databases:** MongoDB  
 - **Tools:** Git, VS Code  
 
